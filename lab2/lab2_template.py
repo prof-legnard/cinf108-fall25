@@ -39,7 +39,7 @@ import random
 
 # using global variables
 MIN = 1
-MAX = 25
+MAX = 26
 win_num = random.choice(range(MIN, MAX))
 
 guess_count = 1
