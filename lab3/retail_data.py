@@ -23,7 +23,7 @@ RETAIL_ITEMS = {
         "2024_units_sold": 75,
         "ytd_units_sold": 55
     },
-    "Gaming Console Z": {
+    "Gaming Console 2": {
         "price": 499.99,
         "inventory": 40,
         "2024_units_sold": 300,
